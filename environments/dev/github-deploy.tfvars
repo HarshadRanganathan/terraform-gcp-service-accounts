@@ -1,4 +1,4 @@
-service_account_name = "opera-github-deploy"
+service_account_name = "github-deploy"
 description = "Service account for GitHub Deployment"
 project_id  = ""
 
